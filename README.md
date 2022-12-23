@@ -20,9 +20,9 @@ Here are some ideas to get you started:
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=samimhamza-pgl&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
- </p>
+<!--  </p>
  <a href="https://github-readme-stats.vercel.app">
         <img width="41%"  alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza-pgl&layout=compact&theme=onedark&hide_border=true"/>
     </a>
-
+ -->
 <!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza-pgl&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza-pgl&theme=onedark&hide_border=true") -->
